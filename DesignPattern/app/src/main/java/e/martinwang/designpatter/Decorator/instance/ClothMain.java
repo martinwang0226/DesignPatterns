@@ -11,6 +11,5 @@ public class ClothMain {
         clothCheap.dressed();
         PersonCloth clothExpensive = new ExpensiveCloth(person);
         clothExpensive.dressed();
-        
     }
 }
